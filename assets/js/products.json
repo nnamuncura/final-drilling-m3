@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Detergente Liquido 3lts",
+        "price": 8690,
+        "image": "https://jumbo.vtexassets.com/arquivos/ids/754162-180-180?width=180&height=180&aspect=true"
+
+    },
+    {
+        "id": 2,
+        "name": "Coca Cola 2lts",
+        "price": 3000,
+        "image": "https://jumbo.vtexassets.com/arquivos/ids/655907-180-180?width=180&height=180&aspect=true"
+
+    },
+    {
+        "id": 3,
+        "name": "Queso Mantecoso 500g",
+        "price": 6990,
+        "image": "https://jumbo.vtexassets.com/arquivos/ids/896408-180-180?width=180&height=180&aspect=true"
+
+    },
+    {
+        "id": 4,
+        "name": "Palta Hass 1Kg",
+        "price": 6980,
+        "image": "https://jumbo.vtexassets.com/arquivos/ids/635893-180-180?width=180&height=180&aspect=true"
+
+    },
+    {
+        "id": 5,
+        "name": "Aceite Maravilla 900ml",
+        "price": 2990,
+        "image": "https://jumbo.vtexassets.com/arquivos/ids/662339-180-180?width=180&height=180&aspect=true"
+
+    },
+    {
+        "id": 6,
+        "name": "Cereal Quaker 340g",
+        "price": 3899,
+        "image": "https://jumbo.vtexassets.com/arquivos/ids/433235-180-180?width=180&height=180&aspect=true"
+
+    },
+    {
+        "id": 7,
+        "name": "Coca Cola 2lts",
+        "price": 3000,
+        "image": "https://picsum.photos/id/30/900/600"
+
+    },
+    {
+        "id": 8,
+        "name": "Coca Cola 2lts",
+        "price": 3000,
+        "image": "https://picsum.photos/id/20/900/600"
+
+    }
+]
