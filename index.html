@@ -72,16 +72,7 @@
         <div class="container">
             <h2 class="text-center">Lista de Productos</h2>
             <div class="row my-3" id="listProduct">
-                <!-- <div class="col-12 col-sm-6 col-md-3">
-                    <div class="card">
-                        <img src="https://picsum.photos/id/9/900/600" class="card-img-top" alt="img-producto">
-                        <div class="card-body">
-                            <h5 class="card-title">Nombre producto</h5>
-                            <p class="card-text"><strong>$ 5.500</strong></p>
-                            <button class="btn btn-success">Agregar al Carro</button>
-                        </div>
-                    </div>
-                </div> -->
+                <!-- Aqui se muestran las card -->
             </div>
         </div>
 
@@ -89,9 +80,17 @@
             <h4>Carro de Compras</h4>
             <div class="listCart">
             </div>
-            <div class="total">
-                Descuento: 0
-                total: $<span>0</span>
+            <div class="row">
+                <div class="col">                    
+                    <div class="discount">
+                        Descuento: $<span id="discount">0</span> &nbsp;
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="total">
+                        Total: $<span id="totalCart">0</span>
+                    </div>
+                </div>
             </div>
             <div class="btnTab">
                 <button class="close">Cerrar</button>
