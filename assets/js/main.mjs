@@ -1,4 +1,4 @@
-import Producto from "./class/producto.mjs";
+import Producto from "./class/Producto.mjs";
 import Carrito from "./class/Carrito.mjs";
 
 let iconCart = document.querySelector('.icon-cart');
